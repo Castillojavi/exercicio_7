@@ -1,0 +1,5 @@
+git clone https://github.com/Castillojavi/exercicio_7.git
+git add *
+git status 
+git commit -m "meu commit"
+git push 
